@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//workathome.communication-coach.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://localhost/portfolio_cat-sitemap.xml</loc>
+		<loc>https://workathome.communication-coach.com/portfolio_cat-sitemap.xml</loc>
 		<lastmod>2017-01-02T10:10:11+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
