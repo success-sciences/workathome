@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//workathome.communication-coach.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://workathome.communication-coach.com/page-sitemap.xml</loc>
-		<lastmod>2020-08-24T20:04:27+00:00</lastmod>
+		<loc>http://workathome.communication-coach.com/page-sitemap.xml</loc>
+		<lastmod>2020-08-27T17:47:25+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://workathome.communication-coach.com/portfolio_cat-sitemap.xml</loc>
+		<loc>http://workathome.communication-coach.com/portfolio_cat-sitemap.xml</loc>
 		<lastmod>2017-01-02T10:10:11+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
