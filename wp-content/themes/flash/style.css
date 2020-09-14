@@ -1988,7 +1988,6 @@ Slider
 	font-size: 48px;
 	font-weight: 800;
 	line-height: 1.5;
-	text-transform: uppercase;
 }
 
 .tg-slider-widget.slider-light .caption-title {
@@ -1999,7 +1998,6 @@ Slider
 	font-size: 24px;
 	line-height: 35px;
 	margin: 10px 0 30px;
-	text-transform: capitalize;
 }
 
 .tg-slider-widget.slider-light .caption-desc {
@@ -2119,7 +2117,6 @@ Section Title
 	color: #313b48;
 	font-weight: 700;
 	text-align: center;
-	text-transform: uppercase;
 	position: relative;
 	margin-bottom: 20px;
 }
